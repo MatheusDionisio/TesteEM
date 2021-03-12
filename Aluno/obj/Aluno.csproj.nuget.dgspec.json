@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TestesMatheusGit\\Aluno\\Aluno.csproj": {}
+    "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TesteEM\\Aluno\\Aluno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TestesMatheusGit\\Aluno\\Aluno.csproj": {
+    "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TesteEM\\Aluno\\Aluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TestesMatheusGit\\Aluno\\Aluno.csproj",
+        "projectUniqueName": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TesteEM\\Aluno\\Aluno.csproj",
         "projectName": "Aluno",
-        "projectPath": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TestesMatheusGit\\Aluno\\Aluno.csproj",
+        "projectPath": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TesteEM\\Aluno\\Aluno.csproj",
         "packagesPath": "C:\\Users\\DEV-ESTAGIO-3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TestesMatheusGit\\Aluno\\obj\\",
+        "outputPath": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TesteEM\\Aluno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DEV-ESTAGIO-3\\AppData\\Roaming\\NuGet\\NuGet.Config",

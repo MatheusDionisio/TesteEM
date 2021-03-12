@@ -74,5 +74,9 @@ namespace Aluno
         {
             return obj is Aluno aluno && aluno.matricula == matricula;
         }
+        public string showSexo()
+        {
+            return Convert.ToString(matricula);
+        }
     }
 }
