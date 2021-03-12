@@ -90,5 +90,9 @@ namespace Aluno
         {
             return true;
         }
+        public bool EhMentira()
+        {
+            return false;
+        }
     }
 }
