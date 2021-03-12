@@ -78,5 +78,9 @@ namespace Aluno
         {
             return Convert.ToString(matricula);
         }
+        public bool AlunoEhLindo()
+        {
+            return nome.Equals("Rafael");
+        }
     }
 }
