@@ -78,15 +78,17 @@ namespace Aluno
         {
             return Convert.ToString(matricula);
         }
-<<<<<<< HEAD
         public bool AlunoEhTop()
         {
             return nome.Equals("Matheus");
-=======
+        }
         public bool AlunoEhLindo()
         {
             return nome.Equals("Rafael");
->>>>>>> 2623b3a87c13a1ad90b0d4f2b3149490a7ea773d
+        }
+        public bool EhVerdade()
+        {
+            return true;
         }
     }
 }

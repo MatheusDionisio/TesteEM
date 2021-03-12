@@ -1,0 +1,4 @@
+D:\WorkRafael\new\TesteEM\Aluno\obj\Debug\netstandard2.0\Aluno.csprojAssemblyReference.cache
+D:\WorkRafael\new\TesteEM\Aluno\obj\Debug\netstandard2.0\Aluno.AssemblyInfoInputs.cache
+D:\WorkRafael\new\TesteEM\Aluno\obj\Debug\netstandard2.0\Aluno.AssemblyInfo.cs
+D:\WorkRafael\new\TesteEM\Aluno\obj\Debug\netstandard2.0\Aluno.csproj.CoreCompileInputs.cache
