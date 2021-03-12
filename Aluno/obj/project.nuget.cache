@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tC5UgcqKtuumsowTVV5soIVeaNeKwJv1qxgpzVkuycFl/WrssQ58ymBhP3GvClSGuqZGXAHLgjSZZH4x1yK5cA==",
+  "dgSpecHash": "P8watgqZFscZdEiTNsbnH7wCxBC79TmZbbPsITIbj2AiJbE0aNfEgNZXJO/EPQLoa9bl1ocTdi9dT90EgsFy0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DEV-ESTAGIO-3\\Desktop\\TesteEM\\Aluno\\Aluno.csproj",
+  "projectFilePath": "D:\\WorkRafael\\new\\TesteEM\\Aluno\\Aluno.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DEV-ESTAGIO-3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\DEV-ESTAGIO-3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
